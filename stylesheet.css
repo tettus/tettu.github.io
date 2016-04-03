@@ -1,0 +1,33 @@
+
+body{
+	
+	padding-top: 70px;
+	
+}
+
+label{
+	padding-right:10px;
+	
+}
+.te-details{
+	color : rgba(32, 95, 150, 0.82);
+}
+
+.te-data{
+	font-size: 18px;
+	font-family: sans-serif;
+	
+}
+.te-navbar{
+	background-color: rgba(32, 95, 150, 0.82);
+	color:white !important;
+	font-weight: bold;
+}
+
+.te-navbar a{
+	color:#E2EBF3;
+}
+
+.te-navbar a:hover{
+	color:rgba(32, 95, 150, 0.82);
+}
